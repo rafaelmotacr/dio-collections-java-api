@@ -1,0 +1,27 @@
+# Arquivos temporários do Eclipse
+.metadata/
+
+# Logs do Eclipse
+*.log
+
+# Arquivos de configuração do Eclipse
+.settings/
+
+# Arquivos de compilação
+/bin/
+
+# Arquivos de configuração do projeto Eclipse
+.classpath
+.project
+
+# Cache do Eclipse
+.history/
+
+# Arquivos de backup do Eclipse
+*~
+
+# Arquivos de índice do Eclipse
+*.index
+
+# Arquivos de armazenamento local do Eclipse
+.localhistory/
