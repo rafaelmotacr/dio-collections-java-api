@@ -13,10 +13,10 @@ public class ConjuntoPalavrasUnicas {
 	
 	
 	public void adicionarPalavra(String palavra) {
-		/*if(this.conjuntoPalavrasUnicas.contains(palavra)) {
+		if(this.conjuntoPalavrasUnicas.contains(palavra)) {
 			throw new RuntimeException("Esta palavra ja existe no conjunto!!!");
 			
-		}*/
+		}
 		this.conjuntoPalavrasUnicas.add(palavra);
 	}
 	
